@@ -22,6 +22,7 @@ Dataset mencakup informasi komprehensif dari 374 individu, yang terdiri dari:
 * **Parameter Tidur:** Durasi tidur, Kualitas tidur.
 * **Aktivitas & Kesehatan:** Tingkat stres, Kategori BMI, Tekanan Darah, Detak Jantung, dan Langkah Harian.
 * **Target:** No Disorder, Insomnia, Sleep Apnea.
+* **Link Dataset:** [Kaggle - Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data)
 
 ---
 
